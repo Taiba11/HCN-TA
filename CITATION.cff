@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HCN-TA: Hierarchical Capsule Network with Temporal Attention for a Generalizable Approach to Audio Deepfake Detection"
+type: software
+authors:
+  - family-names: "Wani"
+    given-names: "Taiba Majid"
+    affiliation: "Sapienza University of Rome"
+  - family-names: "Uceker"
+    given-names: "Madleen"
+    affiliation: "Osnabrück University"
+  - family-names: "Wani"
+    given-names: "Farooq Ahmad"
+    affiliation: "Sapienza University of Rome"
+  - family-names: "Amerini"
+    given-names: "Irene"
+    affiliation: "Sapienza University of Rome"
+preferred-citation:
+  type: conference-paper
+  title: "HCN-TA: Hierarchical Capsule Network with Temporal Attention for a Generalizable Approach to Audio Deepfake Detection"
+  authors:
+    - family-names: "Wani"
+      given-names: "Taiba Majid"
+    - family-names: "Uceker"
+      given-names: "Madleen"
+    - family-names: "Wani"
+      given-names: "Farooq Ahmad"
+    - family-names: "Amerini"
+      given-names: "Irene"
+  collection-title: "The 40th ACM/SIGAPP Symposium on Applied Computing (SAC '25)"
+  year: 2025
+  start: 775
+  end: 777
+  doi: "10.1145/3672608.3707761"
+  publisher: "ACM"
