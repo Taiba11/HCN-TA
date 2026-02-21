@@ -1,0 +1,4 @@
+dataset:
+  name: "for"
+  data_dir: "data/FoR"
+output_dir: "experiments/for"

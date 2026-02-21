@@ -1,0 +1,4 @@
+dataset:
+  name: "asvspoof2019"
+  data_dir: "data/ASVspoof2019/LA"
+output_dir: "experiments/asvspoof2019"
